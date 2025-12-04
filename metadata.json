@@ -1,0 +1,5 @@
+{
+  "name": "Turkey Energy Statistics Portal",
+  "description": "A comprehensive data visualization portal for Turkey's energy statistics, featuring sectoral analysis, PEFA accounts, and dynamic filtering.",
+  "requestFramePermissions": []
+}
